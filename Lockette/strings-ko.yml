@@ -1,0 +1,45 @@
+language: Korean
+author: qaz2
+editors: ''
+version: 0
+alternate-private-tag: 잠금
+alternate-moreusers-tag: 추가
+alternate-everyone-tag: 모두
+alternate-operators-tag: 관리자
+alternate-timer-tag: 타이머
+alternate-fee-tag: 요금
+msg-user-conflict-door: 잠긴 문이 부서졌습니다
+msg-user-illegal: 잠겨져있는 상자가 부셔졌습니다!
+msg-user-resize-owned: 당신은 *** 의 상자를 확장시킬수 없습니다.
+msg-help-chest: 표지판에 [잠금] 을 입력하고 상자에 붙이세요!
+msg-owner-release: 당신은 상자의 잠금을 해제하였습니다!
+msg-admin-release: (관리자) @@@ 이(가) *** 의 잠금을 강제로 풀었습니다!
+msg-user-release-owned: 당신은 *** 님의 상자를 변형시킬 수 없습니다.
+msg-owner-remove: 당신은 이 상자의 사용자를 삭제했습니다!
+msg-user-remove-owned: 당신은 *** 님의 상자를 삭제할 수 없습니다.
+msg-user-break-owned: 당신은 *** 님의 상자를 함부로 파괴할 수 없습니다.
+msg-user-denied-door: 당신은 이 문을 사용할 권한이 없습니다.
+msg-user-touch-fee:'### 가격만큼 *** 에게 지불하면, 문이 열립니다.'
+msg-user-touch-owned: 이 상자는 *** 님이 잠궜습니다.
+msg-help-select: [잠금]이 젹혀있는 표지판을 우클릭하고 /lockette <줄 순서> <이름> 을 적으십시오.
+msg-admin-bypass: Bypassed a door owned by ***, be sure to close it behind you.
+msg-admin-snoop: (Admin) @@@ has snooped around in a container owned by ***!
+msg-user-denied: 당신은 이 상자를 열 권한이 없습니다.
+msg-error-zone: 이 지역은 *** 님에 의해 보호되었습니다.
+msg-error-permission: 상자를 잠글 수 있는 권한이 없습니다.
+msg-error-claim: 주위에 잠굴 상자가 없습니다!
+msg-error-claim-conflict: 기존의 보호된 문과 너무 가까운곳에 있습니다.
+msg-admin-claim-error: 플레이어 *** 는 온라인이 아닙니다, 올바른 이름을 입력했는지 확인해 주십시오.
+msg-admin-claim: 당신은 *** 의 개인용 상자를 만들었습니다.
+msg-owner-claim: 당신은 개인용 상자를 만들었습니다!
+msg-error-adduser-owned: 당신은 *** 의 상자에 사용자를 추가할 수 없습니다.
+msg-error-adduser: 주위에 사용자를 추가할 상자가 없습니다!
+msg-owner-adduser: 당신은 상자에 사용자를 추가 할 수 있습니다!
+msg-help-command1: '&C/lockette <line number> <text> - [잠금]이 젹혀있는 표지판을 우클릭하고 명령어를 입력하세요.'
+msg-help-command2: '&C/lockette fix - 잘못된 위치에 있는 표지판을 수정합니다. 위치를 수정할 문을 보고있으세요.'
+msg-help-command3: '&C/lockette reload - 플러그인의 콘피그파일을 다시불러옵니다. 관리자들만 가능한 명령어 입니다.'
+msg-help-command4: '&C/lockette version - Lockeete플러그인의 버전을 확인합니다.'
+msg-admin-reload: 플러그인의 콘피그파일을 리로드하였습니다.
+msg-error-fix: 잠긴 문이 존재하지 않습니다.
+msg-error-edit: 먼저 잠근되어져있는 문을 우클릭하세요.
+msg-owner-edit: 표지판이 성공적으로 변경되었습니다.
