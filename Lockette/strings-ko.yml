@@ -7,7 +7,7 @@ alternate-moreusers-tag: 추가
 alternate-everyone-tag: 모두
 alternate-operators-tag: 관리자
 alternate-timer-tag: 타이머
-alternate-fee-tag: 수수료
+alternate-fee-tag: 요금
 msg-user-conflict-door: 잠긴 문이 부서졌습니다
 msg-user-illegal: 잠겨져있는 상자가 부셔졌습니다!
 msg-user-resize-owned: 당신은 *** 의 상자를 확장시킬수 없습니다.
